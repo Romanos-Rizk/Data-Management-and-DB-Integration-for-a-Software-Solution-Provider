@@ -6,9 +6,9 @@
 - [Company Information and Business Model](#Company-Information-and-Business-Model)
 - [Business Rules](#Business-Rules)
 - [Description of Entities](#Description-of-Entities)
-- [SQL Management Studio: Table Creation](#SQL-Management-Studio:-Table-Creation)
-- [SQL Management Studio: Populating Tables](#SQL-Management-Studio:-Populating-Tables)
-- [SQL Management Studio: Custom Queries](#SQL-Management-Studio:-Custom-Queries)
+- [SQL Management Studio: Table Creation](#SQL-Management-Studio-Table-Creation)
+- [SQL Management Studio: Populating Tables](#SQL-Management-Studio-Populating-Tables)
+- [SQL Management Studio: Custom Queries](#SQL-Management-Studio-Custom-Queries)
 
 ## Project Overview:
 
