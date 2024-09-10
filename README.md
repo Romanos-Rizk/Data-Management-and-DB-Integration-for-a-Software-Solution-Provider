@@ -16,7 +16,7 @@ This project showcases the design and implementation of a local company's databa
 
 ## Company Information and Business Model:
 
-Pros Services, a prominent Internet Service Provider (ISP) operating in Lebanon under a Ministry of Telecommunications license since 2008, has established itself as a premier provider of internet services, including IPTV, smart home solutions, and IoT services. With a track record of 14 years in the industry, Pros Services has garnered a solid reputation for delivering high-quality services and remains committed to further solidifying its position in the market.
+Pros Services, a prominent Internet Service Provider (ISP), operating in Lebanon under a Ministry of Telecommunications license since 2008, has established itself as a premier provider of internet services, including IPTV, smart home solutions, and IoT services. With a track record of 14 years in the industry, Pros Services has garnered a solid reputation for delivering high-quality services and remains committed to further solidifying its position in the market.
 
 Covering extensive geographic regions, Pros Services operates through a network of over 500 links strategically installed across Lebanon's key zones, encompassing Beirut, South Lebanon, Beqaa’, North Lebanon, and Mount Lebanon. This widespread coverage allows the company to efficiently cater to diverse customer needs and preferences throughout the country.
 
